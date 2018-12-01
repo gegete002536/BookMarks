@@ -1,0 +1,125 @@
+{
+   "checksum": "a0ee8133a1f7c8391fd32946102af007",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13187843770203901",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13188121096249664"
+            },
+            "name": "企业门户 - 协同办公平台",
+            "type": "url",
+            "url": "http://mo.adc.com/"
+         }, {
+            "date_added": "13187933641411063",
+            "id": "9",
+            "meta_info": {
+               "last_visited_desktop": "13188120440006836"
+            },
+            "name": "运维平台 主页 - 平台技术中心-运维平台 - OPPO Knowledge Base",
+            "type": "url",
+            "url": "http://doc.myoas.com/display/OP"
+         }, {
+            "date_added": "13187955884101095",
+            "id": "12",
+            "meta_info": {
+               "last_visited_desktop": "13188120439592812"
+            },
+            "name": "InfoQ - 促进软件开发领域知识与创新的传播",
+            "type": "url",
+            "url": "https://www.infoq.cn/"
+         }, {
+            "date_added": "13187966561530732",
+            "id": "13",
+            "meta_info": {
+               "last_visited_desktop": "13187966561533732"
+            },
+            "name": "3.7.1 Documentation",
+            "type": "url",
+            "url": "https://docs.python.org/3.7/index.html"
+         }, {
+            "children": [ {
+               "date_added": "13187971245852302",
+               "id": "14",
+               "meta_info": {
+                  "last_visited_desktop": "13188130331543420"
+               },
+               "name": "简介 - The Tengine Web Server",
+               "type": "url",
+               "url": "http://tengine.taobao.org/"
+            }, {
+               "date_added": "13187971388732376",
+               "id": "16",
+               "meta_info": {
+                  "last_visited_desktop": "13188050425636009"
+               },
+               "name": "GitHub - taobao/nginx-book: Nginx开发从入门到精通",
+               "type": "url",
+               "url": "https://github.com/taobao/nginx-book"
+            }, {
+               "date_added": "13188126418894040",
+               "id": "18",
+               "meta_info": {
+                  "last_visited_desktop": "13188126418894470"
+               },
+               "name": "nginx-dev-examples: 5db3a839a45c /",
+               "type": "url",
+               "url": "http://hg.nginx.org/nginx-dev-examples/file/default"
+            }, {
+               "date_added": "13188126452778022",
+               "id": "19",
+               "meta_info": {
+                  "last_visited_desktop": "13188126452778280"
+               },
+               "name": "Development guide",
+               "type": "url",
+               "url": "https://nginx.org/en/docs/dev/development_guide.html#examples"
+            } ],
+            "date_added": "13187971263851302",
+            "date_modified": "13188132481463452",
+            "id": "15",
+            "name": "Nginx",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13188132481463452",
+               "id": "20",
+               "meta_info": {
+                  "last_visited_desktop": "13188132481463892"
+               },
+               "name": "负载均衡和LVS - bengozhong的个人空间 - 开源中国",
+               "type": "url",
+               "url": "https://my.oschina.net/u/588516/blog/759530"
+            } ],
+            "date_added": "13188132501322218",
+            "date_modified": "13188132501324580",
+            "id": "21",
+            "name": "LVS",
+            "type": "folder"
+         } ],
+         "date_added": "13187839842953893",
+         "date_modified": "13188132491257538",
+         "id": "1",
+         "name": "书签栏",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13187839842953893",
+         "date_modified": "0",
+         "id": "2",
+         "name": "其他书签",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13187839842953893",
+         "date_modified": "0",
+         "id": "3",
+         "name": "移动设备书签",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
